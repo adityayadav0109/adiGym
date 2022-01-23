@@ -1,0 +1,79 @@
+/* .toggle{
+    display: block;
+    width: 15%;
+    float: right;
+    margin: 25px;
+    
+}
+#lis{
+    flex-direction: column;
+    /* display: none; */
+/* }
+#check:checked  + #one{
+    color: red;
+} */ 
+/* body{
+    background-color: red;
+} */
+.nav{
+    flex-direction: column;
+    align-items: center;
+}
+#lis{
+    flex-direction: column;
+    align-items: center;
+    /* display: none; */
+}
+/* #nav:hover + #lis{
+    display: flex;
+} */
+#badlu:checked + #lis{
+    display: flex;
+}
+.box{
+    margin: 10px;
+}
+.main{
+    margin-top: 20px;
+}
+#caption h1{
+    font-size: 50px;
+}
+.tube{
+    flex-direction: column;
+}
+.main_four{
+    flex-direction: column;
+    align-items: center;
+}
+#row_two img{
+    width: 300px;
+}
+.cap h1{
+    font-size: 20px;
+}
+#caption{
+    flex-direction: column;
+}
+.buttu{
+    width: 36%;
+}
+.dabba img{
+    height: 180px;
+}
+#row_one{
+    width: 80%;
+}
+.para{
+    padding: 10px;
+}
+.main_three p{
+    margin: 10px;
+}
+.dabba div {
+    padding: 0px;
+    font-size: 11px;
+}
+.head_two{
+    margin-top: 40px;
+}
